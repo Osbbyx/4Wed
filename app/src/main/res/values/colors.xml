@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1b2221</color>
+    <color name="colorPrimaryDark">#adc0e6</color>
+    <color name="colorAccent">#ffe5ee</color>
+    <drawable name="rojo">#922B21</drawable>
+    <drawable name="rojo_normal">#cd6155  </drawable>
+    <drawable name="seleccion">#17202a </drawable>
+    <drawable name="morado">#76448A </drawable>
+    <drawable name="morado_normal">#af7ac5 </drawable>
+    <drawable name="azul">#1F618D</drawable>
+    <drawable name="azul_normal">#5499c7 </drawable>
+    <drawable name="verde">#148F77</drawable>
+    <drawable name="verde_normal">#48c9b0 </drawable>
+    <drawable name="amarillo">#B7950B</drawable>
+    <drawable name="amarillo_normal">#f4d03f </drawable>
+    <drawable name="mamei">#A04000</drawable>
+    <drawable name="mamei_normal">#DC7633</drawable>
+    <drawable name="gris_normal">#AAB7B8</drawable>
+    <drawable name="gris">#717D7E</drawable>
+    <drawable name="azul_especial">#e4027a</drawable>
+    <drawable name="azul_especial_normal">#410729</drawable>
+</resources>

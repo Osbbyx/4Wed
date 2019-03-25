@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/btn"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.app.elementary.myapplication.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        ads:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/alealtorio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#303030"
+                android:onClick="Seleccion"
+                android:text="@string/alealtorio"
+                android:textColor="#fff"
+                android:textSize="18sp" />
+
+            <ImageButton
+                android:id="@+id/buscar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f2f2f2"
+                android:onClick="Seleccion"
+                ads:srcCompat="@android:drawable/ic_search_category_default" />
+
+            <Button
+                android:id="@+id/a"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f2d7d5"
+                android:onClick="Seleccion"
+                android:text="@string/a"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/b"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#d98880"
+                android:onClick="Seleccion"
+                android:text="@string/b"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/c"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#c0392b"
+                android:onClick="Seleccion"
+                android:text="@string/c"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/d"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#922b21"
+                android:onClick="Seleccion"
+                android:text="@string/d"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/e"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#641e16"
+                android:onClick="Seleccion"
+                android:text="@string/e"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/f"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f5eef8"
+                android:onClick="Seleccion"
+                android:text="@string/f"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/g"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#d7bde2"
+                android:onClick="Seleccion"
+                android:text="@string/g"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/h"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#9b59b6"
+                android:onClick="Seleccion"
+                android:text="@string/h"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/i"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76448a"
+                android:onClick="Seleccion"
+                android:text="@string/i"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/j"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#512e5f"
+                android:onClick="Seleccion"
+                android:text="@string/j"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/k"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#eaf2f8"
+                android:onClick="Seleccion"
+                android:text="@string/k"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/l"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#7fb3d5"
+                android:onClick="Seleccion"
+                android:text="@string/l"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/m"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#2980b9"
+                android:onClick="Seleccion"
+                android:text="@string/m"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/n"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#1f618d"
+                android:onClick="Seleccion"
+                android:text="@string/n"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/o"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#154360"
+                android:onClick="Seleccion"
+                android:text="@string/o"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/p"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#d1f2eb"
+                android:onClick="Seleccion"
+                android:text="@string/p"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/q"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#a3e4d7"
+                android:onClick="Seleccion"
+                android:text="@string/q"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/r"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#1abc9c"
+                android:onClick="Seleccion"
+                android:text="@string/r"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/s"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#148f77"
+                android:onClick="Seleccion"
+                android:text="@string/s"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/t"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#0e6251"
+                android:onClick="Seleccion"
+                android:text="@string/t"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/u"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f9e79f"
+                android:onClick="Seleccion"
+                android:text="@string/u"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/v"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f7dc6f"
+                android:onClick="Seleccion"
+                android:text="@string/v"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/w"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f1c40f"
+                android:onClick="Seleccion"
+                android:text="@string/w"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/x"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#b7950b"
+                android:onClick="Seleccion"
+                android:text="@string/x"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/y"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#7d6608"
+                android:onClick="Seleccion"
+                android:text="@string/y"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/z"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#e59866"
+                android:onClick="Seleccion"
+                android:text="@string/z"
+                android:textColor="#fff"
+                android:textSize="40sp"
+                android:textStyle="bold|italic" />
+
+            <ImageButton
+                android:id="@+id/ayuda"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:background="#212f3d"
+                android:onClick="Seleccion"
+                ads:srcCompat="@android:drawable/ic_menu_help" />
+
+            <ImageButton
+                android:id="@+id/opcion"
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:background="#2e4256"
+                android:onClick="Seleccion"
+                ads:srcCompat="@android:drawable/ic_menu_myplaces" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

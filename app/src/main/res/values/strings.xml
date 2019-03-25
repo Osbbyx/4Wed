@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">learn 4 words every day</string>
+
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+
+    <string name="p">P</string>
+    <string name="q">Q</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+
+    <string name="u">U</string>
+    <string name="v">V</string>
+    <string name="w">W</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+
+
+    <string name="choose">  choose a word</string>
+
+    <string name="crador">created by Osbbyx - ©Copyright Derechos Reservados</string>
+
+    <string name="wed">4WED</string>
+    <string name="wedd">Osbbyx©</string>
+
+
+    <string name="banner_ad_unit_id2">ca-app-pub-8718810071299222/4595070267 </string>
+    <string name="banner_ad_unit_id3">ca-app-pub-8718810071299222/8586806651 </string>
+    <string name="banner_ad_unit_id4">ca-app-pub-8718810071299222/5826865657 </string>
+    <string name="banner_ad_unit_id5">ca-app-pub-8718810071299222/4527717112 </string>
+    <string name="banner_ad_unit_id6">ca-app-pub-8718810071299222/4834838872</string>
+    <string name="banner_ad_unit_id7">ca-app-pub-8718810071299222/8090066918</string>
+    <string name="banner_ad_unit_id8">ca-app-pub-8718810071299222/9636998599</string>
+    <string name="banner_ad_unit_id9">ca-app-pub-8718810071299222/2959909609</string>
+    <string name="banner_ad_unit_id10">ca-app-pub-8718810071299222/8406418220</string>
+    <string name="banner_ad_unit_id11">ca-app-pub-8718810071299222/5362286639</string>
+    <string name="banner_ad_unit_id12">ca-app-pub-8718810071299222/4324962167</string>
+    <string name="banner_ad_unit_id13">ca-app-pub-8718810071299222/8329740065</string>
+    <string name="banner_ad_unit_id14">ca-app-pub-8718810071299222/4049629999</string>
+    <string name="banner_ad_unit_id15">ca-app-pub-8718810071299222/3113072405</string>
+    <string name="banner_ad_unit_id16">ca-app-pub-8718810071299222/6918910884</string>
+    <string name="banner_ad_unit_id17">ca-app-pub-8718810071299222/1802315572</string>
+    <string name="banner_ad_unit_id18">ca-app-pub-8718810071299222/8569413211</string>
+    <string name="banner_ad_unit_id19">ca-app-pub-8718810071299222/7517676683</string>
+    <string name="banner_ad_unit_id20">ca-app-pub-8718810071299222/3616469438</string>
+    <string name="banner_ad_unit_id21">ca-app-pub-8718810071299222/4097306426</string>
+    <string name="banner_ad_unit_id22">ca-app-pub-8718810071299222/8719502745</string>
+    <string name="banner_ad_unit_id23">ca-app-pub-8718810071299222/6939517210</string>
+    <string name="banner_ad_unit_id24">ca-app-pub-8718810071299222/7622043499</string>
+    <string name="banner_ad_unit_id25">ca-app-pub-8718810071299222/3957705629</string>
+    <string name="banner_ad_unit_id26">ca-app-pub-8718810071299222/5247161597</string>
+    <string name="banner_ad_unit_id27">ca-app-pub-8718810071299222/9904166871</string>
+    <string name="banner_ad_unit_id28">ca-app-pub-8718810071299222/6837529142</string>
+    <string name="banner_ad_unit_id29">ca-app-pub-8718810071299222/4015090532</string>
+
+
+
+
+    <string name="acera_de">Esta Aplicación fue creada con el propósito de estudiar, por lo menos 4 palabras diarias en inglés, así incrementar su vocabulario, dominando cada vez más el
+idioma. Todas las palabras que aprenderán, son directamente como se usarían si estuviera hablando en español, facilitando el aprendizaje de esas palabras sin necesidad de dar un ejemplo alguno.
+</string>
+    <string name="about"> This application was made for the purpose of studying, at least 4 words a day in English, as well as their vocabulary, increasingly dominating the language.All the words that are learned, is exactly like you will say in spanish,for that reason that facilitates the learning of the words without the need to give an example.</string>
+
+    <string name="o1">Tu Nivel Actual</string>
+    <string name="o2">Nivel basico 1 A-E</string>
+    <string name="o3">NIVEL BASICO 2 F-J</string>
+    <string name="o4">NIVEL INTERMEDIO 1 K-O</string>
+    <string name="o5">NIVEL INTERMEDIO 2 P-T</string>
+    <string name="o6">NIVEL AVANZADO U-Y</string>
+    <string name="o7">GRADUADO(EXPERTO) Z</string>
+
+    <string name="alealtorio">Your Daily Words!!</string>
+
+    <string name="b1">La función de este botón es buscar una palabra en específico tanto en inglés como en español, no dice la pronunciación ya que es para buscar rápidamente el significado de una palabra.</string>
+    <string name="b2">La función de este botón permite el prendimiento de 4 palabras de una manera rápida y aleatoria.</string>
+    <string name="b3">La función de este botón es permitir saber al usuario el propósito por la que se creo esta aplicación.</string>
+    <string name="b4">La función de este botón es resolver posibles dudas acerca de la aplicación o algunos botones en especifico.</string>
+    <string name="b5">Ayuda en general:</string>
+    <string name="b6"> Cada color o nivel contiene 5 subniveles lo cual tienes dos formas de aprender 4 palabras al día, la primera forma de aprender es: siguiendo letra por letra que sería nivel por nivel o la segunda forma que es: ir directo a Your Daily Words!! Y aprender 4 palabras aleatoria, esta es decisión de usted, el propósito es que logre aprender nuevas palabras y cada día tenga mejor vocabulario.</string>
+
+</resources>
